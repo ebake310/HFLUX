@@ -7,3 +7,5 @@ Glose, AM, LK Lautz, EA Baker. 2017. Stream heat budget modeling with HFLUX: mod
 
 Please cite this resource as:
 Lautz, L., A. Glose, E. A. Baker (2020). HFLUX: 1D Stream Temperature Model Code, HydroShare, https://doi.org/10.4211/hs.71415cf96d614e208c201c1153034a49
+
+This resource was created using funding from the National Science Foundation. Grant Number 0901480. CAREER: Integrating Research and Education to Advance the Use of Heat as a Tracer of Surface-Ground Water Interaction at Multiple Spatial and Temporal Scales
